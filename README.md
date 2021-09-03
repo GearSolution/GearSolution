@@ -3,7 +3,7 @@
 [![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=GearSolution&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on -> Python,Ruby,Javascript
+- 🔭 I’m currently working on -> Python,Javascript
 - 🌱 I’m currently learning -> Javascript
 - 👯 I’m looking to collaborate on -> Umm.. python projects
 - 🤔 I’m looking for help with -> Ruby 💎
