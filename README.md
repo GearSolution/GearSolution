@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on -> Umm.. python projects
 - 🤔 I’m looking for help with -> Ruby 💎
 - 💬 Ask me about -> Python,Ruby,Java,HTML,CSS
-- 📫 How to reach me: -> My <a href="https://discord.gg/WtEjnqm5">Discord Server</a>
+- 📫 How to reach me: -> My <a href="https://discord.gg/G84AGxzXZV">Discord Server</a>
 - ⚡ Fun fact: -> umm.... nope
 
 - Wanna know about me? -
