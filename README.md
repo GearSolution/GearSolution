@@ -17,4 +17,4 @@
 - 👉 My age - 🤫 Its a secret
 - 👉 What I am doing right now? - Making discord bots
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=50&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
