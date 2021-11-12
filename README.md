@@ -13,4 +13,4 @@
 - 👉 What I wanna persue in future - Well coding again
 - 👉 What I am doing right now? - Coding new projects!
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
