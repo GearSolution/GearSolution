@@ -1,4 +1,4 @@
-<img src = "https://media.discordapp.net/attachments/891237527170715680/908787928459792434/Screenshot_20211113-000707_Canva-removebg-preview.png">
+<img src = "./assests/profile.png">
 
 - I am a self-taught passionate developer from India. 🇮🇳
 
