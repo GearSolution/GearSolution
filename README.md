@@ -20,7 +20,7 @@
 
 ## Languages 
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=radical&layout=compact)](https://github.com/DevMike123/)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=locale&layout=compact)](https://github.com/DevMike123/)
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=unicord.js)](https://github.com/mango-solutions/unicord.js)
