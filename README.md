@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on -> Umm.. java projects!
 
 ## Contributions
-[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=radical)](https://github.com/DevMike123/)
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=locale)](https://github.com/DevMike123/)
 
 
 ## Wanna know about me? -
