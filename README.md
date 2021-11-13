@@ -27,4 +27,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Jarvis)](https://github.com/DevMike123/Jarvis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=Pokedex-Website)](https://github.com/mango-solutions/Pokedex-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=Pokechu)](https://github.com/mango-solutions/Pokechu)
+
