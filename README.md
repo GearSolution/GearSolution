@@ -20,4 +20,4 @@
 
 ## Languages
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
