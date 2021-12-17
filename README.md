@@ -34,7 +34,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Jarvis)](https://github.com/DevMike123/Jarvis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=PyHub)](https://github.com/DevMike123/PyHub)
-
-## #Achievements
-- Winner of DevFest India 2021
-<a href = "https://twitter.com/DevMike123/status/1467119086274433025?s=20"><img src = "./assests/twitter.png"> </a>
