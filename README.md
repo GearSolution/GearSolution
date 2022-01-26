@@ -4,18 +4,13 @@
 
 ## #About Me
 
-- 🔭 I’m currently working on -> Python,Java
-- 🌱 I’m currently learning -> Java
-- 👯 I’m looking to collaborate on -> Umm.. java projects!
-
-## #Developer Profile
-- 🤖 Check out my developer profile and badges [here](https://g.dev/dev-mike)!
-<a href = "https://g.dev/dev-mike"><img src = "./assests/gdev.png"> </a>
-
+- 🔭 I’m currently working on -> Android
+- 🌱 I’m currently learning -> Kotlin
+- 👯 I’m looking to collaborate on -> Umm.. android applications!
 
 
 ## #Contributions
-[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=locale)](https://github.com/DevMike123/)
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=react)](https://github.com/DevMike123/)
 
 
 ## #Wanna know about me? -
@@ -27,11 +22,11 @@
 
 ## #Languages 
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=locale&layout=compact)](https://github.com/DevMike123/)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=react&layout=compact)](https://github.com/DevMike123/)
 
 ## #Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=unicord.js)](https://github.com/mango-solutions/unicord.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=unicord.js&theme=dark)](https://github.com/mango-solutions/unicord.js)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Jarvis)](https://github.com/DevMike123/Jarvis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Jarvis&theme=dark)](https://github.com/DevMike123/Jarvis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=android-for-devs&repo=Espresso)](https://github.com/android-for-devs/Espresso)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=android-for-devs&repo=Espresso&theme=dark)](https://github.com/android-for-devs/Espresso)
