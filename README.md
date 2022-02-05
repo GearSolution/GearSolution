@@ -9,6 +9,20 @@
 - 🌱 I’m currently learning -> Kotlin
 - 👯 I’m looking to collaborate on -> Umm.. android applications!
 
+```java
+
+// Do you want to know about me?
+
+public class About
+{
+public static void main(String args[])
+{
+    String name = "Aniket Bhattacharjee";
+    
+}
+}
+```
+
 
 ## #Github Statistics
 [![Aniket's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=react)](https://github.com/DevMike123/)
