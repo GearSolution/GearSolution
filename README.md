@@ -11,10 +11,11 @@
 1  class Person {
 2      constructor() {
 3        this.name = "Aniket Bhattacharjee";
-4        this.traits = ["DEV", "ANDROID"];
-5        this.age = new Date().getFullYear() - 2000;
-6      }
-7  }
+4        this.traits = ["DEV","JAVA"];
+5        this.expertise = ["ANDROID","GITHUB"];
+6        this.age = new Date().getFullYear() - 2000;
+7      }
+8  }
 ```
 
 
