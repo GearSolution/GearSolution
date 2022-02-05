@@ -13,7 +13,7 @@
 3        this.name = "Aniket Bhattacharjee";
 4        this.traits = ["DEV","JAVA"];
 5        this.expertise = ["ANDROID","GITHUB"];
-6        this.founder = ["ANDROID FOR DEVS","POKÉCHU","LUCA"];
+6        this.projects = ["UNICORD","POKÉCHU","LUCA"];
 7        this.age = new Date().getFullYear() - 2000;
 8      }
 9  }
