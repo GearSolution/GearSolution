@@ -4,11 +4,6 @@
 <p align = "center">  I am a self-taught passionate developer from India. 🇮🇳 </p>
 
 ## #About Me
-
-- 🔭 I’m currently working on -> Android
-- 🌱 I’m currently learning -> Kotlin
-- 👯 I’m looking to collaborate on -> Umm.. android applications!
-
 ```java
 
 // Do you want to know about me? Check here:
@@ -16,7 +11,7 @@
 1  class Person {
 2      constructor() {
 3        this.name = "Aniket Bhattacharjee";
-4        this.traits = ["DESIGN", "ANDROID"];
+4        this.traits = ["DEV", "ANDROID"];
 5        this.age = new Date().getFullYear() - 2000;
 6      }
 7  }
