@@ -1,6 +1,7 @@
-<img src = "./assests/profile.png">
+<p align = "center"><img src = "./assests/profile.png"></p>
+<br>
 
-- I am a self-taught passionate developer from India. 🇮🇳
+<p align = "center">  I am a self-taught passionate developer from India. 🇮🇳 </p>
 
 ## #About Me
 
@@ -18,7 +19,7 @@
 - 👉 My hobbies - Coding obviously
 - 👉 What I wanna persue in future - Well coding again
 - 👉 What I am doing right now? - Coding new projects!
-- Founder of - [@android-for-devs](https://github.com/android-for-devs)
+- 👉 Founder of - [@android-for-devs](https://github.com/android-for-devs)
 
 ## #Languages 
 
