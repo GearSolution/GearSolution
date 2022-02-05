@@ -11,16 +11,15 @@
 
 ```java
 
-// Do you want to know about me?
+// Do you want to know about me? Check here:
 
-public class About
-{
-public static void main(String args[])
-{
-    String name = "Aniket Bhattacharjee";
-    
-}
-}
+1  class Person {
+2      constructor() {
+3        this.name = "Aniket Bhattacharjee";
+4        this.traits = ["DESIGN", "ANDROID"];
+5        this.age = new Date().getFullYear() - 2000;
+6      }
+7  }
 ```
 
 
