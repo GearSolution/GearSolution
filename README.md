@@ -1,5 +1,5 @@
- 
-<img src = "./assests/profile.png"></p>
+<p align= "center">
+<img src = "https://readme-typing-svg.herokuapp.com?&center=true&width=380&height=45&color=%2336BCF7&lines=Hello+There%2C+I'm+Aniket!;I+do+Open+Source!"></p>
 <br>
 
 <p align = "center">  I am a self-taught passionate developer from India. 🇮🇳 </p>
