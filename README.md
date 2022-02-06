@@ -1,15 +1,10 @@
-  
- ​<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+Aniket!&center=true&width=380&height=45"> </p> 
- ​<p align="center"> <a href="https://github.com/DevMike123"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DevMike123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a> </p>
- ​<img title="streak" alt="DevMike's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMike123&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
-
-
+ 
 <img src = "./assests/profile.png"></p>
 <br>
 
 <p align = "center">  I am a self-taught passionate developer from India. 🇮🇳 </p>
 
-## #About Me
+## #About Me 
 ```java
 
 // Do you want to know about me? Check here:
