@@ -36,6 +36,10 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=react&layout=compact)](https://github.com/DevMike123/)
 
+## #Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=DevMike123&theme=dark&row=2&column=3)
+
 ## #Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=unicord.js&theme=dark)](https://github.com/mango-solutions/unicord.js)
 
