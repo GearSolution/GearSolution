@@ -13,7 +13,7 @@
 3        this.name = "Aniket Bhattacharjee";
 4        this.traits = ["DEV","JAVA"];
 5        this.expertise = ["ANDROID","GITHUB"];
-6        this.projects = ["UNICORD","POKÉCHU","LUCA"];
+6        this.projects = ["POKÉCHU","LUCA"];
 7        this.age = new Date().getFullYear() - 2000;
 8      }
 9  }
@@ -41,7 +41,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=DevMike123&theme=dark&row=2&column=3)
 
 ## #Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mango-solutions&repo=unicord.js&theme=dark)](https://github.com/mango-solutions/unicord.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PokechuDiscord&repo=pokechu&theme=dark)](https://github.com/PokechuDiscord/pokechu)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Luca&theme=dark)](https://github.com/DevMike123/Luca)
 
