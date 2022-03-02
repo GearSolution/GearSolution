@@ -36,9 +36,8 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=react&layout=compact)](https://github.com/DevMike123/)
 
-## #Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DevMike123&theme=dark&row=2&column=3)
+## #My Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevMike123&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF)](https://git.io/streak-stats)
 
 ## #Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PokechuDiscord&repo=pokechu&theme=dark)](https://github.com/PokechuDiscord/pokechu)
