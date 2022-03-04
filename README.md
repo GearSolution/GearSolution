@@ -13,7 +13,7 @@
 3        this.name = "Aniket Bhattacharjee";
 4        this.traits = ["DEV","JAVA"];
 5        this.expertise = ["ANDROID","GITHUB"];
-6        this.projects = ["POKÉCHU","LUCA"];
+6        this.projects = ["POKÉCHU","LUCA","PYHUB"];
 7        this.age = new Date().getFullYear() - 2000;
 8      }
 9  }
@@ -44,4 +44,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Luca&theme=dark)](https://github.com/DevMike123/Luca)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=android-for-devs&repo=Espresso&theme=dark)](https://github.com/android-for-devs/Espresso)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=pyhub&theme=dark)](https://github.com/DevMike123/pyhub)
