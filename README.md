@@ -12,9 +12,9 @@
 2      constructor() {
 3        this.name = "Aniket Bhattacharjee";
 4        this.traits = ["DEV","JAVA"];
-5        this.expertise = ["FLUTTER","GITHUB"];
+5        this.expertise = ["GITHUB"];
 6        this.projects = ["POKÉCHU","LUCA","PYHUB"];
-7        this.age = new Date().getFullYear() - 2000;
+7        this.age = new Date().getFullYear() - 2007;
 8      }
 9  }
 ```
