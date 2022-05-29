@@ -30,7 +30,7 @@
 - 👉 My hobbies - Coding obviously
 - 👉 What I wanna persue in future - Well coding again
 - 👉 What I am doing right now? - Coding new projects!
-- 👉 Founder of - [@Pokechu](https://github.com/PokechuDiscord)
+- 👉 Founder of - [@Pokechu](https://github.com/hipokechu)
 
 ## #Languages 
 
