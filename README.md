@@ -40,7 +40,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevMike123&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF)](https://git.io/streak-stats)
 
 ## #Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=documentation&theme=dark)](https://github.com/DevMike123/documentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=pokechu&theme=dark)](https://github.com/DevMike123/pokechu)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Luca&theme=dark)](https://github.com/DevMike123/Luca)
 
