@@ -11,9 +11,9 @@
 1  class Person {
 2      constructor() {
 3        this.name = "Aniket Bhattacharjee";
-4        this.traits = ["DEV","JAVA"];
-5        this.expertise = ["GITHUB"];
-6        this.projects = ["POKÉCHU","LUCA","PYHUB"];
+4        this.traits = ["DEV","ML"];
+5        this.expertise = ["GITHUB","TENSORFLOW","KERAS"];
+6        this.projects = ["TENSORACADEMY","POKÉCHU","LUCA"];
 7        this.age = new Date().getFullYear() - 2007;
 8      }
 9  }
@@ -30,18 +30,5 @@
 - 👉 My hobbies - Coding obviously
 - 👉 What I wanna persue in future - Well coding again
 - 👉 What I am doing right now? - Coding new projects!
-- 👉 Founder of - [@Pokechu](https://github.com/hipokechu)
+- 👉 Founder of - [@TensorAcademy](https://github.com/tensoracademy)
 
-## #Languages 
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMike123&langs_count=30&theme=react&layout=compact)](https://github.com/DevMike123/)
-
-## #My Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevMike123&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&stroke=FFFFFF)](https://git.io/streak-stats)
-
-## #Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=pokechu&theme=dark)](https://github.com/DevMike123/pokechu)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=Luca&theme=dark)](https://github.com/DevMike123/Luca)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMike123&repo=pyhub&theme=dark)](https://github.com/DevMike123/pyhub)
