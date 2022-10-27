@@ -10,7 +10,7 @@
 
 1  class Person {
 2      constructor() {
-3        this.name = "Aniket Bhattacharjee";
+3        this.name = "ANIKET BHATTACHARJEE";
 4        this.traits = ["DEV","ML"];
 5        this.expertise = ["GITHUB","TENSORFLOW","KERAS"];
 6        this.projects = ["TENSORACADEMY","POKÉCHU","LUCA"];
