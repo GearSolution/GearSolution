@@ -30,5 +30,9 @@
 - 👉 My hobbies - Coding obviously
 - 👉 What I wanna persue in future - Well coding again
 - 👉 What I am doing right now? - Coding new projects!
-- 👉 Founder of - [@TensorAcademy](https://github.com/tensoracademy)
+- 👉 Founder of - [@Pokéchu](https://github.com/hipokechu)
+
+## # Hacktoberfest
+
+[![@DevMike123's Holopin board](https://holopin.me/DevMike123)](https://holopin.io/@DevMike123)
 
