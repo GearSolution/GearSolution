@@ -32,7 +32,7 @@
 - 👉 What I am doing right now? - Coding new projects!
 - 👉 Founder of - [@Pokéchu](https://github.com/hipokechu)
 
-## # Hacktoberfest
+## #Hacktoberfest
 
 [![@DevMike123's Holopin board](https://holopin.me/DevMike123)](https://holopin.io/@DevMike123)
 
