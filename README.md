@@ -12,9 +12,9 @@
 2      constructor() {
 3        this.name = "ANIKET BHATTACHARJEE";
 4        this.traits = ["DEV","ML"];
-5        this.expertise = ["GITHUB","TENSORFLOW","KERAS"];
-6        this.projects = ["TENSORACADEMY","POKÉCHU","LUCA"];
-7        this.age = new Date().getFullYear() - 2007;
+5        this.expertise = ["GITHUB","JAVA","PYTHON"];
+6        this.projects = ["MATTER SOLUTIONS","POKÉCHU","LUCA"];
+7        
 8      }
 9  }
 ```
