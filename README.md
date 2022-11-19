@@ -22,8 +22,7 @@
 |[![Aniket's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=react)](https://github.com/DevMike123/)|[![GitHub Streak](https://streak-stats.demolab.com?user=DevMike123&theme=dark)](https://git.io/streak-stats)| 
 | ------------- | ------------- |
 
-### Highlights
-|<img src="./assests/pokeapi.png" width="225" height=150>|[Working with the PokéAPI Team!](https://github.com/PokeAPI)|
-|---|---|
+### Hacktoberfest 2022
 
+[![@DevMike123's Holopin board](https://holopin.me/DevMike123)](https://holopin.io/@DevMike123)
 
