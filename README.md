@@ -23,8 +23,8 @@
 | ------------- | ------------- |
 
 ### Highlights
-|<img src="./assests/pokeapi.png" width="200" height=200>|[Working with the PokéAPI Team!](https://github.com/PokeAPI)|
+|<img src="./assests/pokeapi.png" width="200" height=150>|[Working with the PokéAPI Team!](https://github.com/PokeAPI)|
 |---|---|
-|<img src="https://aoi.js.org/img/akarui-development.png" width="200" height=200>|[Worked with the Aoi.js Team for Discord Bots!](https://aoi.js.org/)|
+|<img src="https://aoi.js.org/img/akarui-development.png" width="200" height=150>|[Worked with the Aoi.js Team for Discord Bots!](https://aoi.js.org/)|
 
 
