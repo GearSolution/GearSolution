@@ -25,4 +25,6 @@
 ### Highlights
 |<img src="./assests/pokeapi.png">|[Working with the PokéAPI Team!](https://github.com/PokeAPI)|
 |---|---|
+|<img src="https://aoi.js.org/img/akarui-development.png">|[Worked with the Aoi.js Team for Discord Bots!](https://aoi.js.org/)|
+
 
