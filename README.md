@@ -24,5 +24,6 @@
 
 ### Hacktoberfest 2022
 
-[![@DevMike123's Holopin board](https://holopin.me/DevMike123)](https://holopin.io/@DevMike123)
+|[![@DevMike123's Holopin board](https://holopin.me/DevMike123)](https://holopin.io/@DevMike123)|
+| ------------- |
 
