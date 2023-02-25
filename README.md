@@ -1,5 +1,5 @@
 <p align= "center">
-<img src = "./assests/profile.png"></p>
+<img src = "./assests/bg.png"></p>
 
 <p align = "center">  I am a self-taught passionate developer from India. 🇮🇳 </p>
 
