@@ -1,7 +1,6 @@
 <p align= "center">
 <img src = "./assests/bg.png"></p>
 
-<p align = "center">  I am a self-taught passionate developer from India. 🇮🇳 </p>
 
 ### About Me 
 ```java
@@ -19,8 +18,8 @@
 
 
 ### Github Statistics
-|[![Aniket's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=react)](https://github.com/DevMike123/)|[![GitHub Streak](https://streak-stats.demolab.com?user=DevMike123&theme=dark)](https://git.io/streak-stats)| 
-| ------------- | ------------- |
+|[![Aniket's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=DevMike123&count_private=true&show_icons=true&theme=react)](https://github.com/DevMike123/)|
+| ------------- | 
 
 ### Hacktoberfest 2022
 
